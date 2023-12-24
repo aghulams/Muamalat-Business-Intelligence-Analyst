@@ -41,18 +41,22 @@ The primary objectives of this project are as follows:
 - [Link to ERD](#) *(Insert link to ERD image)*
 
 ### Dashboard
-- [Link to Dashboard](#) *(Insert link to dashboard image)*
+- ![Link to Dashboard](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/dashboard.png)
 
 ### Performance Analysis
 
 #### Overall Business Performance
-- [Link to Overall Performance](#) *(Insert link to performance image)*
+- ![Link to Overall Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/overall_performance.png)
 
 #### Top Performing Products
-- [Link to Top Products](#) *(Insert link to top products image)*
+- ![Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_1.png)
+- ![Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_2.png)
 
 #### Top Performing Cities
-- [Link to Top Cities](#) *(Insert link to top cities image)*
+- ![Link to Top Cities](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_performing_city.png)
+
+#### Monthly Performance
+- ![Link to Monthly Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/performance_trending.png)
 
 ## Business Recommendations
 
