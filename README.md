@@ -41,7 +41,7 @@ The primary objectives of this project are as follows:
 - [Link to ERD](#) *(Insert link to ERD image)*
 
 ### Dashboard
-- ![Link to Dashboard](#) *(https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/dashboard.png)*
+- ![Link to Dashboard](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/dashboard.png)
 
 ### Performance Analysis
 
