@@ -46,17 +46,17 @@ The primary objectives of this project are as follows:
 ### Performance Analysis
 
 #### Overall Business Performance
-- [Link to Overall Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/overall_performance.png)
+- ![Link to Overall Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/overall_performance.png)
 
 #### Top Performing Products
-- [Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_1.png)
-- [Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_2.png)
+- ![Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_1.png)
+- ![Link to Top Products](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_product_2.png)
 
 #### Top Performing Cities
-- [Link to Top Cities](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_performing_city.png)
+- ![Link to Top Cities](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/top_performing_city.png)
 
 #### Monthly Performance
-- [Link to Monthly Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/performance_trending.png)
+- ![Link to Monthly Performance](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/performance_trending.png)
 
 ## Business Recommendations
 
