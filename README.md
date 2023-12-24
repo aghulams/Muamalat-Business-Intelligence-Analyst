@@ -1,8 +1,9 @@
-# Business Intelligence Dashboard for PT. Sejahtera Bersama
+# Bank Muamalat Business Intelligence Analyst Internship Program
+This project is part of the Bank Muamalat x Rakamin internship program that I participated in.
 
-## Overview
+## Study Case
 
-As a Business Intelligence (BI) Analyst at PT. Sejahtera Bersama, Ghulam have been tasked with creating a performance dashboard to monitor the sales performance of the company's products and to uncover business insights from the patterns and trends in the available data.
+As a Business Intelligence (BI) Analyst at PT. Sejahtera Bersama, I have been tasked with creating a performance dashboard to monitor the sales performance of the company's products and to uncover business insights from the patterns and trends in the available data.
 
 
 ## Objectives
@@ -35,10 +36,10 @@ The primary objectives of this project are as follows:
 ## Results
 
 ### Queries
-- [Link to Query Results](#) *(Insert link to query result image)*
+- [Link to Query Results](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/Query-Bank%20Muamalat%20(Business%20Intelligence%20Analyst).sql)
 
 ### Entity-Relationship Diagram (ERD)
-- [Link to ERD](#) *(Insert link to ERD image)*
+- ![Link to ERD](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/ERD-Bank%20Muamalat%20(Business%20Intelligence%20Analyst).png)
 
 ### Dashboard
 - ![Link to Dashboard](https://github.com/aghulams/Muamalat-Business-Intelligence-Analyst/blob/main/pic/dashboard.png)
